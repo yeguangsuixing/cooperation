@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "cooperation",
   "version": "1.0.0",
   "description": "test",
   "main": "server.js",
@@ -12,6 +12,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "ygsx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeguangsuixing/cooperation.git"
+  },
+  "keywords": [
+    "cooperation",
+    "games"
+  ],
+  "bugs": {
+    "url": "https://github.com/yeguangsuixing/cooperation/issues"
+  },
+  "homepage": "https://github.com/yeguangsuixing/cooperation#readme"
 }
